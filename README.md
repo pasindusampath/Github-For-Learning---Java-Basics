@@ -9,10 +9,10 @@ This repository follows a structured, day-by-day approach to learning Java:
 ### **Week 1: Java Fundamentals**
 - **Day 1**: Introduction to Java, Setup, and Hello World
 - **Day 2**: Variables, Data Types, and Basic Operations
-- **Day 3**: Control Structures (if-else, loops)
-- **Day 4**: Methods and Functions
-- **Day 5**: Arrays and Collections
-- **Day 6**: Object-Oriented Programming Basics
+- **Day 3**: Keyboard Input and Interactive Applications
+- **Day 4**: Control Structures (if-else, loops)
+- **Day 5**: Methods and Functions
+- **Day 6**: Arrays and Collections
 - **Day 7**: Practice and Review
 
 ### **Week 2: Object-Oriented Programming**
@@ -87,7 +87,7 @@ java-from-very-first/
 │   ├── exercises/          # Practice problems
 │   └── solutions/          # Exercise solutions
 ├── Day 2/                   # Variables and Data Types
-├── Day 3/                   # Control Structures
+├── Day 3/                   # Keyboard Input and Interactive Applications
 ├── ...                      # Continue for all 21 days
 ├── projects/                # End-of-week projects
 ├── resources/               # Additional learning materials
@@ -138,10 +138,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Track your learning progress:
 - [ ] Day 1: Introduction and Setup
 - [ ] Day 2: Variables and Data Types
-- [ ] Day 3: Control Structures
-- [ ] Day 4: Methods and Functions
-- [ ] Day 5: Arrays and Collections
-- [ ] Day 6: Object-Oriented Programming Basics
+- [ ] Day 3: Keyboard Input and Interactive Applications
+- [ ] Day 4: Control Structures
+- [ ] Day 5: Methods and Functions
+- [ ] Day 6: Arrays and Collections
 - [ ] Day 7: Practice and Review
 - [ ] Day 8: Classes and Objects
 - [ ] Day 9: Inheritance and Polymorphism
